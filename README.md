@@ -1,13 +1,13 @@
-## Interests
+Law & Econometrics student
 
-- Econometrics
-- Data analysis
-- Law
+## Research interests
+
 - Criminology & Empirical legal studies
 
+## Reaserch experience
+Research Assistant at ERC project Re-Constructing Sentencing: A Multidimensional Study of Judicial Discretion in Continental Europe at Charles University
 
-## Currently learning
 
-- R
-- Python
-- Git & GitHub
+## Tools
+
+R · Python · Git
