@@ -1,11 +1,19 @@
+# Jakub Hrubý
+
 Law & Econometrics student
 
 ## Research interests
 
-- Criminology & Empirical legal studies
+- Criminology
+- Empirical Legal Studies
 
 ## Reaserch experience
-Research Assistant at ERC project Re-Constructing Sentencing: A Multidimensional Study of Judicial Discretion in Continental Europe at Charles University
+
+### Research Assistant
+
+ERC project Re-Constructing Sentencing: A Multidimensional Study of Judicial Discretion in Continental Europe
+
+Charles University
 
 
 ## Tools
