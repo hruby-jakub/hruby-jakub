@@ -16,4 +16,4 @@ ERC project Re-Constructing Sentencing: A Multidimensional Study of Judicial Dis
 
 ## Tools
 
-R · Python · LaTeX · Git
+R · Python · LaTeX
